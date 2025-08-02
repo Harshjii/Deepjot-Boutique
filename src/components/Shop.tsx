@@ -28,28 +28,28 @@ const Shop = () => {
     {
       title: "Western Elegance",
       description: "Contemporary styles for the modern woman",
-      image: "https://images.pexels.com/photos/1926769/pexels-photo-1926769.jpeg?auto=compress&cs=tinysrgb&w=800",
+      image: "/bt8.jpg",
       items: "25+ Pieces",
       gradient: "from-rose-500 to-pink-500"
     },
     {
       title: "Indo-Fusion",
       description: "Where tradition meets modernity",
-      image: "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=800",
+      image: "/bt7.jpg",
       items: "30+ Pieces",
       gradient: "from-purple-500 to-rose-500"
     },
     {
       title: "Bespoke Designs",
       description: "Custom pieces tailored just for you",
-      image: "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      image: "/bt6.jpg",
       items: "Made to Order",
       gradient: "from-amber-500 to-rose-500"
     },
     {
       title: "Luxury Accessories",
       description: "Complete your look with curated pieces",
-      image: "https://images.pexels.com/photos/1927259/pexels-photo-1927259.jpeg?auto=compress&cs=tinysrgb&w=800",
+      image: "/bt5.jpg",
       items: "15+ Items",
       gradient: "from-teal-500 to-rose-500"
     }
@@ -60,7 +60,7 @@ const Shop = () => {
       name: "Midnight Elegance Dress",
       price: "₹3,999",
       originalPrice: "₹5,999",
-      image: "https://images.pexels.com/photos/1926769/pexels-photo-1926769.jpeg?auto=compress&cs=tinysrgb&w=600",
+      image: "/bt1.jpg",
       tag: "Bestseller",
       rating: 4.9,
       reviews: 127
@@ -69,7 +69,7 @@ const Shop = () => {
       name: "Royal Fusion Kurta Set",
       price: "₹2,799",
       originalPrice: "₹3,999",
-      image: "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=600",
+      image: "/bt2.jpg",
       tag: "New Arrival",
       rating: 4.8,
       reviews: 89
@@ -78,10 +78,28 @@ const Shop = () => {
       name: "Bold Statement Blazer",
       price: "₹4,599",
       originalPrice: "₹6,999",
-      image: "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&w=600",
+      image: "/bt3.jpg",
       tag: "Limited Edition",
       rating: 5.0,
       reviews: 156
+    },
+    {
+      name: "Elegant Saree",
+      price: "₹5,499",
+      originalPrice: "₹7,499",
+      image: "/bt4.jpg",
+      tag: "Classic",
+      rating: 4.7,
+      reviews: 102
+    },
+    {
+      name: "Chic Lehenga",
+      price: "₹6,299",
+      originalPrice: "₹8,299",
+      image: "/bt5.jpg",
+      tag: "Trending",
+      rating: 4.9,
+      reviews: 134
     }
   ];
 

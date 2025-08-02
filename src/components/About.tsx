@@ -115,7 +115,7 @@ const About = () => {
           <div className="relative">
             <div className="relative overflow-hidden rounded-3xl shadow-2xl transform hover:scale-105 transition-all duration-500">
               <img 
-                src="https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=800" 
+                src="/bt1.jpg" 
                 alt="Fashion Design Process" 
                 className="w-full h-96 object-cover"
               />

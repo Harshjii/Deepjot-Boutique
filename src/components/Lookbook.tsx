@@ -25,37 +25,37 @@ const Lookbook = () => {
 
   const lookbookImages = [
     {
-      image: "https://images.pexels.com/photos/1926769/pexels-photo-1926769.jpeg?auto=compress&cs=tinysrgb&w=800",
+      image: "/bt6.jpg",
       quote: "Unfiltered. Unapologetic. You.",
       category: "Evening Wear",
       likes: 234
     },
     {
-      image: "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=800",
+      image: "/bt7.jpg",
       quote: "Bold choices, beautiful outcomes.",
       category: "Indo-Fusion",
       likes: 189
     },
     {
-      image: "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      image: "/bt8.jpg",
       quote: "Confidence is your best accessory.",
       category: "Professional",
       likes: 312
     },
     {
-      image: "https://images.pexels.com/photos/1927259/pexels-photo-1927259.jpeg?auto=compress&cs=tinysrgb&w=800",
+      image: "/bt1.jpg",
       quote: "Express yourself fearlessly.",
       category: "Casual Chic",
       likes: 267
     },
     {
-      image: "https://images.pexels.com/photos/1462637/pexels-photo-1462637.jpeg?auto=compress&cs=tinysrgb&w=800",
+      image: "/bt3.jpg",
       quote: "Every woman is a work of art.",
       category: "Artistic",
       likes: 198
     },
     {
-      image: "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg?auto=compress&cs=tinysrgb&w=800",
+      image: "/bt2.jpg",
       quote: "Style is a way to say who you are.",
       category: "Statement",
       likes: 345
